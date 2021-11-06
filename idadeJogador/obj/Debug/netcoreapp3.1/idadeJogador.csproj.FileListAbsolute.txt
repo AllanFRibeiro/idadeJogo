@@ -1,0 +1,14 @@
+C:\Imersao_Logica\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.exe
+C:\Imersao_Logica\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.deps.json
+C:\Imersao_Logica\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.runtimeconfig.json
+C:\Imersao_Logica\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.runtimeconfig.dev.json
+C:\Imersao_Logica\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.dll
+C:\Imersao_Logica\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.pdb
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.csproj.AssemblyReference.cache
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.AssemblyInfoInputs.cache
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.AssemblyInfo.cs
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.dll
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.pdb
+C:\Imersao_Logica\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.genruntimeconfig.cache
